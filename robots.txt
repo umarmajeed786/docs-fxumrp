@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://umarmajeed786.github.io/docs-fxumrp/sitemap.xml
